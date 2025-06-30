@@ -16,7 +16,7 @@ cryptography
 decorator
 defusedxml
 diff-match-patch
-Django
+Django==5.1.1
 django-allauth
 django-ckeditor
 django-csp
